@@ -18,6 +18,6 @@ test-cov: lib-cov
 
 lib-cov:
 	@rm -rf lib-cov
-	@jscoverage lib lib-cov
+	@jscoverage --no-highlight lib lib-cov
 
 .PHONY: all clean test

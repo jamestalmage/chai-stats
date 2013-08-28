@@ -1,6 +1,6 @@
 {
   "author": "Jake Luer <jake@alogicalparadox.com>",
-  "name": "chai-stats",
+  "name": "chai-stats-jamestalmage",
   "description": "Statistical and additional numerical assertions for the Chai Assertion Library.",
   "version": "0.2.0",
   "repository": {
